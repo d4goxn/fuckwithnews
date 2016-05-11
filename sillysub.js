@@ -25,6 +25,7 @@
 		"you won't believe": "I'm really sad about",
 		"scientist\b": "Channing Tatum",
 		"scientists": "Channing Tatum and his friends",
+		"terrorists": "scientists",
 		"journalist\b": "Obama",
 		"journalists": "Senators",
 		"journalism": "voyeurism",
