@@ -37,4 +37,6 @@
 	Object.keys(replacements).map(function (target) {
 		document.body.innerHTML = document.body.innerHTML.replace(new RegExp(target, "gi"), replacements[target]);
 	});
+
+	console.log("Fixed the news");
 }());
