@@ -1,5 +1,8 @@
 (function() {
 	var replacements = {
+		"entrepreneur": "artist",
+		"Donald Trump": "Micheal Jackson",
+		"Bernie Sanders": "Moses",
 		"random": "broken",
 		"gaffe": "haunted",
 		"star[- ]studded": "blood-soaked",
